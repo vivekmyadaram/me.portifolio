@@ -316,20 +316,16 @@ function TabPanel() {
               >
                 <div className="text-center pt-5">
                   <h2 style={{ color: "rgb(203, 178, 106)" }}>
-                    Senior Software engineer at <br />
+                    Software Engineer at <br />
                     Shreyan IT Solutions Private Limited, Hyderabad, Telangana.
                   </h2>
                 </div>
                 <div className="container mt-4 pb-4">
                   <div>
-                    <h3>
-                      {" "}
-                      - Having 4 years of hands-on experience in building
+                    <h3 className="text-center">
+                      Having 4 years of hands-on experience in building
                       responsive and user-friendly web applications
                     </h3>
-                    <p className="text-center">
-                      Currently Working on ATOM Project.
-                    </p>
                   </div>
                 </div>
               </div>
