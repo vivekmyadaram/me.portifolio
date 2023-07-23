@@ -14,12 +14,12 @@ function Footer() {
         <div className="d-flex justify-content-center flex-wrap">
           <div className="mx-3">
             <h5>
-              <AiOutlineMail /> vivekjavascript@gmail.com
+              <AiOutlineMail /> vivekvishwakarma0719@gmail.com
             </h5>
           </div>
           <div className="mx-3">
             <h5>
-              <AiOutlinePhone /> +91-9985871216
+              <AiOutlinePhone /> +91-9052161216
             </h5>
           </div>
         </div>

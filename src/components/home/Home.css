@@ -17,6 +17,7 @@ h1 {
 .myImg {
   /* height: 25rem; */
   width: 22rem;
+  border-radius: 50%;
 }
 .message {
   /* background-color: azure; */

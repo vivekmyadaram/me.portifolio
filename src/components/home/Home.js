@@ -5,7 +5,7 @@ import "./Home.css";
 import Img1 from "../../images/Hero-bg1.png";
 import MyImg from "../../images/me1.jpg";
 import Vector1 from "../../images/vector-1.png";
-import Resume from "../../images/vivekDev.docx";
+import Resume from "../../images/VivekReactDeveloper.pdf";
 
 import {
   BsCodeSlash,
